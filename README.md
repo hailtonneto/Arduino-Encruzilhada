@@ -27,7 +27,7 @@ Juntos, estamos construindo um futuro mais eficiente e seguro para nossa cidade!
 
 <br>
 
-## 🌐 Autor
+## 🌐 Autores
 
 - Hailton de Melo Lima Neto
 - Messias Daniel Ferreira da Silva Filho
